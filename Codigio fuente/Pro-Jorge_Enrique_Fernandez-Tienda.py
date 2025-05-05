@@ -14,6 +14,7 @@ import time
 system('cls')
 console = Console()
 
+print("Hola soy una intrusa en tu programa")
 
 #Creamos el titulo
 titulo =  r"""[#979a9a]
